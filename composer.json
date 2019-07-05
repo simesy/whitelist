@@ -1,0 +1,7 @@
+{
+    "name": "simesy/whitelist",
+    "description": "Specify composer packages for whitelisting only",
+    "require": {
+        "drupal/block_field": "~1"
+    }
+}
