@@ -2,6 +2,7 @@
     "name": "simesy/whitelist",
     "description": "Specify composer packages for whitelisting only",
     "require": {
-        "twig/twig": "2.0"
+        "drupal/block_field": "~1",
+        "govcms/govcms": "1.0-beta5"
     }
 }
