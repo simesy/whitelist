@@ -2,6 +2,6 @@
     "name": "simesy/whitelist",
     "description": "Specify composer packages for whitelisting only",
     "require": {
-        "drupal/core": "8.6.14"
+        "twig/twig": "^1.7 || ^2.0"
     }
 }
