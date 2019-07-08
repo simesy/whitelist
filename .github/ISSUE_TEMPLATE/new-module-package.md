@@ -9,10 +9,9 @@ assignees: ''
 
 After opening your issue, please only a PR with the proposed `composer.json` changes.
 
-*Package/module*: `drupal/...`
-*URL*: `https://drupal.org/project/...`
-*First Drupal version*: 6/7/8
-*Module maintenance status*: ...
+**Package/module**: `drupal/...`
+**URL*: `https://drupal.org/project/...`
+**Module maintenance status**: ...
 
 ## What value does this add to GovCMS?
 [Answer]
