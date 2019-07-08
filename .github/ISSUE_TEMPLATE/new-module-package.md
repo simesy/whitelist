@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-After opening your issue, please open a PR with the proposed changes to `composer.json`.
+(After opening your issue, please open a PR with the proposed changes to `composer.json`.)
 
 **Package/module**: `drupal/...`
 **URL**: `https://drupal.org/project/...`
@@ -24,6 +24,15 @@ After opening your issue, please open a PR with the proposed changes to `compose
 
 ## Does the module touch the database structure and/or data? If so, why? What are the risks for future updates?
 [Answer]
+
+## Is the output of the module typically fully cacheable.
+[Yes/No/Not applicable]
+
+## Is the module admin only?
+[Yes/No]
+
+## Does the module require any unusual module permissions?
+[Yes/No]
 
 ## Please paste the output from a static analysis of code standards/complexity/smell. 
 [Answer]
