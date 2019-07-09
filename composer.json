@@ -1,8 +1,7 @@
 {
     "name": "simesy/whitelist",
-    "description": "Specify composer packages for whitelisting only",
+    "description": "Approved packages for use with ...",
     "require": {
-        "drupal/block_field": "~1",
-        "govcms/govcms": "1.0-beta5"
+        "drupal/block_field": "~1"
     }
 }
