@@ -2,6 +2,6 @@
     "name": "simesy/whitelist",
     "description": "Approved packages for use with ...",
     "require": {
-        "drupal/block_field": "8.x-1.0-alpha8"
+        "drupal/block_field": "1.0-alpha8"
     }
 }
