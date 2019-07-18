@@ -3,5 +3,8 @@
     "description": "Approved packages for use with ...",
     "require": {
         "drupal/block_field": "1.0-alpha8"
+    },
+    "replace": {
+         "govcms/whitelist": "*"
     }
 }
