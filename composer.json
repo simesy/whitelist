@@ -18,7 +18,7 @@
         "url": "https://asset-packagist.org"
     }],
     "require": {
-        "govcms/consultation": "dev-master",
+        "govcms/consultation": "dev-8.x-1.x",
         "drupal/dvf": "dev-develop"
     }
 }
