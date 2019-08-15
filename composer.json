@@ -1,22 +1,11 @@
 {
     "name": "govcms/whitelist",
     "description": "Approved packages for use with ...",
-    "repositories": [{
-        "type": "git",
-        "url": "https://github.com/govcms/consultation"
-    },
-    {
-        "type": "vcs",
-        "url": "git@github.com:govcms/dvf.git"
-    },
-    {
-        "type": "composer",
-        "url": "https://packages.drupal.org/8"
-    },
-    {
-        "type": "composer",
-        "url": "https://asset-packagist.org"
-    }],
+    "repositories": [
+        { "type": "vcs", "url": "git@github.com:govcms/consultation.git" },
+        { "type": "vcs", "url": "git@github.com:govcms/dvf.git" },
+        { "type": "composer", "url": "https://asset-packagist.org" }
+    ],
     "require": {
         "govcms/consultation": "dev-8.x-1.x",
         "drupal/dvf": "dev-develop"
